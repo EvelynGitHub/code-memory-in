@@ -1,3 +1,5 @@
+<?php
+
 // Comentário de linha
 
 /*
@@ -6,6 +8,6 @@ ou seja, pode ter mais de uma linha
 */
 
 /**
-* Este também pode servir de
-* comentário de documentação
-*/
+ * Este também pode servir de
+ * comentário de documentação
+ */
