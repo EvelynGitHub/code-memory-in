@@ -4,7 +4,6 @@ uma delas é com o comando:
 
 <pre>php -S localhost:<porta></pre>
 
-
 Um outra forma, para projetos mais elaborados é usar o composer.
 Para isso devesse criar uma pasta e dentro dela criar um aquivo chamado <code>composer.json</code>, seu conteudo deve ser similar a:
 
@@ -24,3 +23,7 @@ Para isso devesse criar uma pasta e dentro dela criar um aquivo chamado <code>co
 }
 
 </pre>
+
+## Documentação oficial
+
+[https://www.php.net/manual/pt_BR/] link aqui
