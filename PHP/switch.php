@@ -26,3 +26,17 @@ switch ($pagina) {
 
 //Resultado:
 //Página Sobre nós
+
+/**
+ * A mesmo coisa de cima com if-else
+ */
+
+if ($pagina == "contato") {
+    print "<h1>Página de contatos</h1>";
+} else if ($pagina == "sobre") {
+    print "<h1>Página Sobre nós</h1>";
+} else if ($pagina == "servicos") {
+    print "<h1>Página de Serviços</h1>";
+} else {
+    print "<h1>Página de inicial</h1>";
+}
