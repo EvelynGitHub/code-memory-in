@@ -50,5 +50,6 @@ Aqui pode ter um pequeno manual de como se usa o sistema.
 **Evelyn Francisco Brandão**
 
 https://www.linkedin.com/in/evelyn-brandão
-github.com/EvelynGitHub/
+
+https://github.com/EvelynGitHub/
 
