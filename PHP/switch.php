@@ -40,3 +40,11 @@ if ($pagina == "contato") {
 } else {
     print "<h1>Página de inicial</h1>";
 }
+
+
+/*
+Vale lembrar que o switch pode ter um case sem o break
+Por convenção, nesse caso, no fina deve ter um comentário escrito "no break".
+
+Também é importante lembrar que quando não se usa o break o PHP continua executando os cases abaixo até encontra um break
+*/
